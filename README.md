@@ -1,6 +1,6 @@
 # Projeto-Pokedex
 
-Projeto desenvolvido no canal do Roger Mello no youtube
+Projeto desenvolvido no canal do Roger Melo no youtube
 
 Nesse projeto foi usados as tecnologias: HTML5, CSS3 e Javascript
 
